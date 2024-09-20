@@ -1,4 +1,4 @@
-## Currency Conerter Application
+## Currency Converter Application
 
 This project is a simple Currency Converter application built using Flutter, showcasing both Cupertino and Material design interfaces. The app allows users to convert currencies with a user-friendly interface tailored for both iOS and Android platforms.
 
